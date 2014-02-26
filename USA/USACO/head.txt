@@ -1,0 +1,6 @@
+
+/*
+ID: yang.su1
+PROG:barn1
+LANG: C++
+*/
